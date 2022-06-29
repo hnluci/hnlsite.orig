@@ -1,10 +1,10 @@
-- title: "Determination of the charge transfer when tunneling into putative Majorana modes in individual vortices in FeTe0.55Se0.045"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "Feature-based attentional tuning during biological motion detection measured with SSVEP"
+  image: SSVEP_2017.png
+  description: Performance in detection tasks can be improved by directing attention to task-relevant features. In this study, we evaluate the direction tuning of selective attention to motion features when observers detect point–light biological motion in noise.
+  authors: Hasan R., Srinivasan R., Grossman E.
   link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+    url: https://jov.arvojournals.org/article.aspx?articleid=2652578
+    display: Journal of Vision August 2017, Vol.17, No. 9
   highlight: 1
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
