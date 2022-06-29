@@ -65,8 +65,6 @@ We are located at the University of California Irvine. We exchange ideas and wor
 We are grateful for funding from the University of California Irvine, [UCI](https://uci.edu/) and the [DEVCOM Army Research Laboratory](https://www.arl.army.mil/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UCI.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ARL.png" style="width: 190px">
 </figure>
