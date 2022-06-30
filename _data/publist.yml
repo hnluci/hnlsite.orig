@@ -3,7 +3,7 @@
   description: Performance in detection tasks can be improved by directing attention to task-relevant features. In this study, we evaluate the direction tuning of selective attention to motion features when observers detect point–light biological motion in noise.
   authors: Hasan R., Srinivasan R., Grossman E.
   link:
-    url: https://jov.arvojournals.org/article.aspx?articleid=2652578
+    url: https://doi.org/10.1167/17.9.22
     display: Journal of Vision August 2017, Vol.17, No. 9
   highlight: 1
 
@@ -12,7 +12,7 @@
   description: Cybersickness is a common and unpleasant side effect of virtual reality immersion. We measured physiological changes that were experienced by seated subjects who interacted with a virtual environment (VE) first while viewing a display monitor and second while using a head-mounted display (HMD).
   authors: Dennison M.S., Wisti A.Z., and D'Zmura M.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0141938216301081
+    url: https://doi.org/10.1016/j.displa.2016.07.002
     display: Displays, vol. 44 (2016)
   highlight: 1
 
@@ -21,7 +21,7 @@
   description: It has been suggested that postural instability is necessary for cybersickness to occur. We found that the offset direction of perceived vertical settings matched the direction of the tunnel’s rotation, so replicating earlier findings.
   authors: Dennison M.S., and D'Zmura M.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003687016301259
+    url: https://doi.org/10.1016/j.apergo.2016.06.014
     display:  Applied Ergonomics (2016)
   highlight: 1
   news2:
@@ -31,7 +31,7 @@
   description: Brain-computer interfacing is a technology that has the potential to improve patient engagement in robot-assisted rehabilitation therapy. For example, movement intention reduces mu (8-13 Hz) oscillation amplitude over the sensorimotor cortex, a phenomenon referred to as event-related desynchronization (ERD).
   authors: Norman S., Dennison M.S., Wolbrecht E., Cramer S., Srinivasan R., and Reinkensmeyer D.
   link:
-    url: https://ieeexplore.ieee.org/document/7405355?arnumber=7405355
+    url: https://doi.org/10.1109/TNSRE.2016.2528167
     display: IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 24, no. 8 (2016)
   highlight: 1
   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
@@ -41,40 +41,40 @@
   description: Recent studies have uncovered a neural response that appears to track the envelope of speech, and have shown that this tracking process is mediated by attention. It has been argued that this tracking reflects a process of phase-locking to the fluctuations of stimulus energy, ensuring that this energy arrives during periods of high neuronal excitability.
   authors: Baltzell L.S., Horton C., Shen Y., Richards V.M., and Srinivasan R.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0006899316303833
+    url: https://doi.org/10.1016/j.brainres.2016.05.029
     display:  Brain Research (2016)
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Utility of EEG measures of brain function in patients with acute stroke."
+  image: EEG_acute_stroke.jpeg
+  description: EEG has been used to study acute stroke for decades; however, because of several limitations EEG-based measures rarely inform clinical decision-making in this setting. Recent advances in EEG hardware, recording electrodes, and EEG software could overcome these limitations.
+  authors: Wu J., Srinivasan, R., Quinlan E.B., Solodkin A., Small S.L., and Cramer S.C.
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 0
+    url: https://doi.org/10.1152/jn.00978.2015
+    display:  Journal of Neurophysiology (2016)
+  highlight: 1
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+- title: "How attention influences perceptual decision making: Single-trial EEG correlates of drift-diffusion model parameters"
+  image: DD_EEG.jpg
+  description: Perceptual decision making can be accounted for by drift-diffusion models, a class of decision-making models that assume a stochastic accumulation of evidence on each trial. Fitting response time and accuracy to a drift-diffusion model produces evidence accumulation rate and non-decision time parameter estimates that reflect cognitive processes.
+  authors: Nunez M.D., Vandekerckhove J., and Srinivasan R.
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
-  highlight: 0
+    url: https://doi.org/10.1016/j.jmp.2016.03.003
+    display: Journal of Mathematical Psychology (2017)
+  highlight: 1
   news2:
 
 
-- title: "Observation of flat bands in twisted bilayer graphene"
+- title: "Individual differences in attention influence perceptual decision making"
   image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+  description: Sequential sampling decision-making models have been successful in accounting for reaction time (RT) and accuracy data in two-alternative forced choice tasks. In this study we show that individual differences in behavior from a novel perceptual decision making task can be attributed to (1) differences in evidence accumulation rates, (2) differences in variability of evidence accumulation within trials, and (3) differences in non-decision times across individuals.
+  authors: Nunez M.D., Srinivasan R., and Vandekerckhove J.
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
+    url: https://doi.org/10.3389/fpsyg.2015.00018
+    display: Frontiers in Psychology (2015)
   highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+  news2:
 
 - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
   image: Direct.png
@@ -83,7 +83,7 @@
   link:
     url: https://www.nature.com/articles/s41535-020-00292-4
     display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
@@ -113,7 +113,7 @@
   link:
     url: https://www.nature.com/articles/s41586-019-1408-8
     display:  Nature 571, 541 (2019)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
@@ -123,7 +123,7 @@
   link:
     url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
     display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
+  highlight: 0
   news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
 
 - title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
@@ -133,7 +133,7 @@
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
     display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
@@ -143,7 +143,7 @@
   link:
     url: https://aip.scitation.org/doi/10.1063/1.5064442
     display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
@@ -153,7 +153,7 @@
   link:
     url: https://www.nature.com/articles/s41567-018-0300-z
     display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
+  highlight: 0
   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
   news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
 
@@ -196,7 +196,7 @@
   link:
     url: https://scipost.org/SciPostPhys.3.2.010/pdf
     display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+  highlight: 0
 
 - title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
   image: TIBB.png
@@ -218,7 +218,7 @@
   link:
     url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
     display: Nature Physics 13, 21 (2017)
-  highlight: 1
+  highlight: 0
   news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
 
 - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
@@ -230,7 +230,7 @@
   link:
     url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
     display: Nature Physics 11, 177 (2015)
-  highlight: 1
+  highlight: 0
   news1:
   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
 
@@ -255,7 +255,7 @@
   link:
     url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
     display: Nature Physics 9, 468 (2013)
-  highlight: 1
+  highlight: 0
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
@@ -268,7 +268,7 @@
   link:
     url: http://iopscience.iop.org/1367-2630/15/6/063029
     display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
+  highlight: 0
   news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
 
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
@@ -277,7 +277,7 @@
     We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
   authors:
     MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
+  highlight: 0
   link:
     url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
     display: Nature Physics 9, 220 (2013)
@@ -292,7 +292,7 @@
   link:
     url: http://www.sciencemag.org/content/336/6081/563
     display: Science 336, 563 (2012)
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
@@ -314,7 +314,7 @@
   link:
     url: http://www.sciencemag.org/content/327/5962/181
     display: Science 327, 181 (2010)
-  highlight: 1
+  highlight: 0
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
@@ -348,7 +348,7 @@
   link:
     url: http://www.nanoscalereslett.com/content/2/2/94
     display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+  highlight: 0
 
 - title: Photoelectron Diffraction for a Look inside Nanostructures
   image: dummy.png
