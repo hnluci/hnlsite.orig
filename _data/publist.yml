@@ -23,7 +23,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0003687016301259
     display:  Applied Ergonomics (2016)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Movement Anticipation and EEG: Implications for BCI-Contingent Robot Therapy"
@@ -53,7 +53,7 @@
   link:
     url: https://www.nature.com/articles/s41467-020-20529-x
     display:  Nature Communications 12, 298 (2021)
-  highlight: 1
+  highlight: 0
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
