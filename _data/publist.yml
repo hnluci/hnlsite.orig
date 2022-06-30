@@ -415,13 +415,13 @@
     display: Clinical Neurophysiology (2006)
   highlight: 0
 
-- title: "Electric Fields of the Brain: The Neurophysics of EEG, 2nd Ed. Oxford University Press, New York."
+- title: "Electric Fields of the Brain: The Neurophysics of EEG"
   image: placeholder.png
-  description: (2006)
+  description: ""
   authors: Nunez P.L., Srinivasan R.
   link:
     url: http://books.google.com/books?id=V1LuaISgSzgC&dq=electric+fields+of+the+brain&printsec=frontcover&source=bn&hl=en&ei=nhO-S6nWIozgswPd7PiWBA&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBYQ6AEwAw#v=onepage&q&f=false
-    display: Preview
+    display: 2nd Ed. Oxford University Press, New York. (2006)
   highlight: 0
 
 - title: "MEG phase follows conscious perception during binocular rivalry induced by visual stream segregation"
@@ -469,9 +469,9 @@
     display: International Journal of Bifurcation and Chaos in Applied Sciences and Engineering (2004)
   highlight: 0
 
-- title: "High-resolution EEG: Theory and Practice"
+- title: "High-resolution EEG: Theory and Practice in (T.C. Handy, ed.) Event-related brain potentials: A Methods Handbook (2003)"
   image: placeholder.png
-  description: "(T.C. Handy, ed.) Event-related brain potentials: A Methods Handbook (2003)"
+  description: 
   authors: Srinivasan R.
   link:
     url: 
@@ -597,11 +597,11 @@
 
 - title: "Neocortical Dynamics, EEG Standing Waves, and Chaos"
   image: placeholder.png
-  description: Nonlinear Dynamical Analysis of the EEG. B.H. Jansen and M. Brandt (Eds.) (1993)
+  description: ""
   authors: Srinivasan R., Nunez P.L.
   link:
     url: https://books.google.com/books?hl=en&lr=&id=1kJBDwAAQBAJ&oi=fnd&pg=PA310&dq=Srinivasan,+R.,+and+Nunez,+P.L.+(1993)+Neocortical+Dynamics,+EEG+Standing+Waves,+and+Chaos&ots=DzS1SOsooa&sig=UKJ0azMt-oemtvl9ej6rs9Z451Y#v=onepage&q=Srinivasan%2C%20R.%2C%20and%20Nunez%2C%20P.L.%20(1993)%20Neocortical%20Dynamics%2C%20EEG%20Standing%20Waves%2C%20and%20Chaos&f=false
-    display: Preview
+    display: Nonlinear Dynamical Analysis of the EEG. B.H. Jansen and M. Brandt (Eds.) (1993)
   highlight: 0
 
 - title: "Implications of recording strategy for estimates of neocortical dynamics with electroencephalography"
