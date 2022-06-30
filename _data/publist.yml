@@ -16,6 +16,16 @@
     display: Displays, vol. 44 (2016)
   highlight: 1
 
+- title: "Cybersickness without the wobble: Experimental results speak against postural instability theory."
+  image: CyberSick_wo_wobble.jpg
+  description: It has been suggested that postural instability is necessary for cybersickness to occur. We found that the offset direction of perceived vertical settings matched the direction of the tunnel’s rotation, so replicating earlier findings.
+  authors: Dennison M.S., and D'Zmura M.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0003687016301259
+    display:  Applied Ergonomics (2016)
+  highlight: 0
+  news2:
+
 - title: "Movement Anticipation and EEG: Implications for BCI-Contingent Robot Therapy"
   image: Robot_Therapy_2016.gif
   description: Brain-computer interfacing is a technology that has the potential to improve patient engagement in robot-assisted rehabilitation therapy. For example, movement intention reduces mu (8-13 Hz) oscillation amplitude over the sensorimotor cortex, a phenomenon referred to as event-related desynchronization (ERD).
@@ -26,23 +36,13 @@
   highlight: 1
   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Attention selectively modulates cortical entrainment in different regions of the speech spectrum."
+  image: Attention_selectively.jpg
+  description: Recent studies have uncovered a neural response that appears to track the envelope of speech, and have shown that this tracking process is mediated by attention. It has been argued that this tracking reflects a process of phase-locking to the fluctuations of stimulus energy, ensuring that this energy arrives during periods of high neuronal excitability.
+  authors: Baltzell L.S., Horton C., Shen Y., Richards V.M., and Srinivasan R.
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
-  highlight: 0
-  news2:
-
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://www.sciencedirect.com/science/article/pii/S0006899316303833
+    display:  Brain Research (2016)
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
