@@ -1,0 +1,318 @@
+I"�e<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p><strong>At the end of this page, you can find the <a href="#full-list-of-publications">full list of publications</a>.</strong></p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Feature-based attentional tuning during biological motion detection measured with SSVEP</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/SSVEP_2017.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Performance in detection tasks can be improved by directing attention to task-relevant features. In this study, we evaluate the direction tuning of selective attention to motion features when observers detect point–light biological motion in noise.</p>
+      <p><em>Hasan R., Srinivasan R., Grossman E.</em></p>
+      <p><strong><a href="https://doi.org/10.1167/17.9.22">Journal of Vision August 2017, Vol.17, No. 9</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Use of physiological signals to predict cybersickness</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Cybersickness.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Cybersickness is a common and unpleasant side effect of virtual reality immersion. We measured physiological changes that were experienced by seated subjects who interacted with a virtual environment (VE) first while viewing a display monitor and second while using a head-mounted display (HMD).</p>
+      <p><em>Dennison M.S., Wisti A.Z., and D’Zmura M.</em></p>
+      <p><strong><a href="https://doi.org/10.1016/j.displa.2016.07.002">Displays, vol. 44 (2016)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Cybersickness without the wobble: Experimental results speak against postural instability theory.</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/CyberSick_wo_wobble.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>It has been suggested that postural instability is necessary for cybersickness to occur. We found that the offset direction of perceived vertical settings matched the direction of the tunnel’s rotation, so replicating earlier findings.</p>
+      <p><em>Dennison M.S., and D’Zmura M.</em></p>
+      <p><strong><a href="https://doi.org/10.1016/j.apergo.2016.06.014">Applied Ergonomics (2016)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Movement Anticipation and EEG: Implications for BCI-Contingent Robot Therapy</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Robot_Therapy_2016.gif" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Brain-computer interfacing is a technology that has the potential to improve patient engagement in robot-assisted rehabilitation therapy. For example, movement intention reduces mu (8-13 Hz) oscillation amplitude over the sensorimotor cortex, a phenomenon referred to as event-related desynchronization (ERD).</p>
+      <p><em>Norman S., Dennison M.S., Wolbrecht E., Cramer S., Srinivasan R., and Reinkensmeyer D.</em></p>
+      <p><strong><a href="https://doi.org/10.1109/TNSRE.2016.2528167">IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 24, no. 8 (2016)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> See <a href="https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/">Physics World</a>, <a href="https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding">SRON news</a>, <a href="https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity">TU Delft news</a>, <a href="https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered">Leiden news</a>.</p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Attention selectively modulates cortical entrainment in different regions of the speech spectrum.</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Attention_selectively.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Recent studies have uncovered a neural response that appears to track the envelope of speech, and have shown that this tracking process is mediated by attention. It has been argued that this tracking reflects a process of phase-locking to the fluctuations of stimulus energy, ensuring that this energy arrives during periods of high neuronal excitability.</p>
+      <p><em>Baltzell L.S., Horton C., Shen Y., Richards V.M., and Srinivasan R.</em></p>
+      <p><strong><a href="https://doi.org/10.1016/j.brainres.2016.05.029">Brain Research (2016)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> See also <a href="https://arxiv.org/abs/2107.14716">arXiv:2107.14716</a></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Utility of EEG measures of brain function in patients with acute stroke.</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/EEG_acute_stroke.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>EEG has been used to study acute stroke for decades; however, because of several limitations EEG-based measures rarely inform clinical decision-making in this setting. Recent advances in EEG hardware, recording electrodes, and EEG software could overcome these limitations.</p>
+      <p><em>Wu J., Srinivasan, R., Quinlan E.B., Solodkin A., Small S.L., and Cramer S.C.</em></p>
+      <p><strong><a href="https://doi.org/10.1152/jn.00978.2015">Journal of Neurophysiology (2016)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>How attention influences perceptual decision making: Single-trial EEG correlates of drift-diffusion model parameters</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/DD_EEG.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Perceptual decision making can be accounted for by drift-diffusion models, a class of decision-making models that assume a stochastic accumulation of evidence on each trial. Fitting response time and accuracy to a drift-diffusion model produces evidence accumulation rate and non-decision time parameter estimates that reflect cognitive processes.</p>
+      <p><em>Nunez M.D., Vandekerckhove J., and Srinivasan R.</em></p>
+      <p><strong><a href="https://doi.org/10.1016/j.jmp.2016.03.003">Journal of Mathematical Psychology (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Individual differences in attention influence perceptual decision making</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Indiv_diff_decision_making.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Sequential sampling decision-making models have been successful in accounting for reaction time (RT) and accuracy data in two-alternative forced choice tasks. In this study we show that individual differences in behavior from a novel perceptual decision making task can be attributed to (1) differences in evidence accumulation rates, (2) differences in variability of evidence accumulation within trials, and (3) differences in non-decision times across individuals.</p>
+      <p><em>Nunez M.D., Srinivasan R., and Vandekerckhove J.</em></p>
+      <p><strong><a href="https://doi.org/10.3389/fpsyg.2015.00018">Frontiers in Psychology (2015)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list-of-publications">Full List of publications</h2>
+
+<p>Feature-based attentional tuning during biological motion detection measured with SSVEP <br />
+  <em>Hasan R., Srinivasan R., Grossman E. </em><br /><a href="https://doi.org/10.1167/17.9.22">Journal of Vision August 2017, Vol.17, No. 9</a></p>
+
+<p>Use of physiological signals to predict cybersickness <br />
+  <em>Dennison M.S., Wisti A.Z., and D’Zmura M. </em><br /><a href="https://doi.org/10.1016/j.displa.2016.07.002">Displays, vol. 44 (2016)</a></p>
+
+<p>Cybersickness without the wobble: Experimental results speak against postural instability theory. <br />
+  <em>Dennison M.S., and D’Zmura M. </em><br /><a href="https://doi.org/10.1016/j.apergo.2016.06.014">Applied Ergonomics (2016)</a></p>
+
+<p>Movement Anticipation and EEG: Implications for BCI-Contingent Robot Therapy <br />
+  <em>Norman S., Dennison M.S., Wolbrecht E., Cramer S., Srinivasan R., and Reinkensmeyer D. </em><br /><a href="https://doi.org/10.1109/TNSRE.2016.2528167">IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 24, no. 8 (2016)</a></p>
+
+<p>Attention selectively modulates cortical entrainment in different regions of the speech spectrum. <br />
+  <em>Baltzell L.S., Horton C., Shen Y., Richards V.M., and Srinivasan R. </em><br /><a href="https://doi.org/10.1016/j.brainres.2016.05.029">Brain Research (2016)</a></p>
+
+<p>Utility of EEG measures of brain function in patients with acute stroke. <br />
+  <em>Wu J., Srinivasan, R., Quinlan E.B., Solodkin A., Small S.L., and Cramer S.C. </em><br /><a href="https://doi.org/10.1152/jn.00978.2015">Journal of Neurophysiology (2016)</a></p>
+
+<p>How attention influences perceptual decision making: Single-trial EEG correlates of drift-diffusion model parameters <br />
+  <em>Nunez M.D., Vandekerckhove J., and Srinivasan R. </em><br /><a href="https://doi.org/10.1016/j.jmp.2016.03.003">Journal of Mathematical Psychology (2017)</a></p>
+
+<p>Individual differences in attention influence perceptual decision making <br />
+  <em>Nunez M.D., Srinivasan R., and Vandekerckhove J. </em><br /><a href="https://doi.org/10.3389/fpsyg.2015.00018">Frontiers in Psychology (2015)</a></p>
+
+<p>EEG functional connectivity, axon delays and white matter disease <br />
+  <em>Nunez P.L., Srinivasan R., and Fields R.D. </em><br /><a href="https://doi.org/10.1016/j.clinph.2014.04.003">Clinical Neurophysiology (2015)</a></p>
+
+<p>Neocortical dynamics due to axon propagation delays in cortico-cortical fibers: EEG traveling and standing waves with implications for top-down influences on local networks and white matter disease <br />
+  <em>Nunez P.L., and Srinivasan R. </em><br /><a href="https://doi.org/10.1016/j.brainres.2013.10.036">Brain Research (2014)</a></p>
+
+<p>Envelope responses in single-trial EEG indicate attended speaker in a ‘cocktail party’ <br />
+  <em>Horton C., Srinivasan R., &amp; D’Zmura M. </em><br /><a href="https://doi.org/10.1088/1741-2560/11/4/046015">Journal of neural engineering (2014)</a></p>
+
+<p>Individual differences in attention strategies during detection, fine discrimination, and coarse discrimination” <br />
+  <em>Bridwell D.A., Hecker E.A., Serences J.T., Srinivasan R. </em><br /><a href="https://doi.org/10.1152/jn.00520.2012">Journal of Neurophysiology (2013)</a></p>
+
+<p>Resting-state cortical connectivity predicts motor skill acquisition <br />
+  <em>Wu J., Srinivasan R., Kaur A. and Cramer S.C. </em><br /><a href="https://doi.org/10.1016/j.neuroimage.2014.01.026">NeuroImage (2014)</a></p>
+
+<p>Top-down influences on local networks: basic theory with experimental implications <br />
+  <em>Srinivasan R., Thorpe S., Nunez P.L. </em><br /><a href="https://doi.org/10.3389/fncom.2013.00029">Frontiers in Computational Neuroscience (2013)</a></p>
+
+<p>Near-real-time feature-selective modulations in human cortex <br />
+  <em>Garcia J.O., Srinivasan R., Serences J.T. </em><br /><a href="https://doi.org/10.1016/j.cub.2013.02.013">Current Biology (2013)</a></p>
+
+<p>Neural strategies for selective attention distinguish fast-action video game players <br />
+  <em>Krishnan L., Kang A., Sperling G., and Srinivasan R. </em><br /><a href="https://doi.org/10.1007/s10548-012-0232-3">Brain Topography (2013)</a></p>
+
+<p>Suppression of competing speech through entrainment of cortical oscillations <br />
+  <em>Horton C., D’Zmura M., Srinivasan R. </em><br /><a href="https://doi.org/10.1152/jn.01026.2012">Journal of Neurophysiology (2013)</a></p>
+
+<p>Theoretical and experimental electrophysiology in human neocortex: multiscale dynamic correlates of conscious experience, in multiscale analysis and nonlinear dynamics <br />
+  <em>Nunez P.L., Srinivasan R., Ingber L. </em><br /><a href="https://doi.org/10.1002/9783527671632.ch06">M Pesenson (ed), Wiley, New York (2013)</a></p>
+
+<p>Scalp thickness adjustment of Laplacian estimates of cortical potential <br />
+  <em>Winter W., Deng S., Srinivasan R. </em><br /><a href="http://www.ijbem.org/volume14/number1/56-59.pdf">International Journal of Bioelectromagnetism (2012)</a></p>
+
+<p>Multivariate spectral analysis of EEG: power, coherence and second-order blind identification <br />
+  <em>Srinivasan R., Deng S. </em><br /><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/b12941-3/multivariate-spectral-analysis-electroencephalogram-power-coherence-second-order-blind-identification-ramesh-srinivasan-siyi-deng">Biosignal Processing: Principles and Practices (2012)</a></p>
+
+<p>Distinct attention networks for feature enhancement and suppression in vision <br />
+  <em>Bridwell D.A., Srinivasan R. </em><br /><a href="https://doi.org/10.1177%2F0956797612440099">Psychological Science (2012)</a></p>
+
+<p>Improved surface Laplacian estimates of cortical potential using realistic models of head geometry <br />
+  <em>Deng S., Winter W., Thorpe S., and Srinivasan R. </em><br /><a href="https://doi.org/10.1109/tbme.2012.2183638">IEEE Transactions in Biomedical Engineering (2012)</a></p>
+
+<p>Accurate reconstruction of temporal correlation for neuronal sources using the enhanced dual-core MEG beamformer <br />
+  <em>Diwakar M., Tal O., Liu T. T., Harrington D. L., Srinivasan R., Muzzatti L., and Huang M. X. </em><br /><a href="https://doi.org/10.1016/j.neuroimage.2011.03.042">NeuroImage (2011)</a></p>
+
+<p>EEG surface Laplacian using realistic head geometry <br />
+  <em>Deng S., Winter W., Thorpe S., and Srinivasan R. </em><br /><a href="http://www.ijbem.org/volume13/number4/173-177.pdf">International Journal of Bioelectromagnetism (2011)</a></p>
+
+<p>EEG reveals divergent paths for speech envelopes during selective attention <br />
+  <em>Horton C., D’Zmura M., and Srinivasan R. </em><br /><a href="http://www.ijbem.org/volume13/number4/217-222.pdf">International Journal of Bioelectromagnetism (2011)</a></p>
+
+<p>Signal Acquisition: EEG and MEG in Wolpaw, J et al., (ed.) Brain-Computer Interfaces for communication and control, Oxford, New York. <br />
+  <em>Srinivasan, R. </em><br /><a href=""></a></p>
+
+<p>Evoked potentials in large-scale cortical networks elicited by TMS of the visual cortex <br />
+  <em>Garcia J.O., Grossman E.D., and Srinivasan R. </em><br /><a href="https://doi.org/10.1152/jn.00739.2010">Journal of Neurophysiology (2011)</a></p>
+
+<p>Lateralization of frequency specific networks for covert attention to auditory stimuli <br />
+  <em>Thorpe S., D’Zmura M., and Srinivasan R. </em><br /><a href="https://doi.org/10.1007/s10548-011-0186-x">Journal of Brain Topography (2011)</a></p>
+
+<p>Dual-core beamformer for obtaining highly correlated neuronal networks in MEG <br />
+  <em>Diwakar M., Huang M.X., Srinivasan R., Harrington D., Robb A., Angeles A., Muzzatti L., Pakdaman R., Song T., Theilmann R.J., and Lee R.R. </em><br /><a href="https://doi.org/10.1016/j.neuroimage.2010.07.023">NeuroImage (2011)</a></p>
+
+<p>Scale and frequency chauvinism in brain dynamics: too much emphasis on gamma band oscillations <br />
+  <em>Nunez P. L., Srinivasan R. </em><br /><a href="https://doi.org/10.1007/s00429-010-0277-6">Brain Structure and Function (2010)</a></p>
+
+<p>Semantic and acoustic analysis of speech by functional networks with distinct time scales <br />
+  <em>Deng S., Srinivasan R. </em><br /><a href="https://doi.org/10.1016/j.brainres.2010.05.027">Brain Research (2010)</a></p>
+
+<p>EEG classification of imagined syllable rhythm using Hilbert spectrum methods <br />
+  <em>Deng S., Srinivasan R., Lappas T., and D’Zmura M. </em><br /><a href="https://doi.org/10.1088/1741-2560/7/4/046006">Journal of Neural Engineering (2010)</a></p>
+
+<p>Nonlinear SSVEP responses are sensitive to the perceptual binding of visual hemifields during conventional ‘eye’ rivalry and interocular ‘percept’ rivalry <br />
+  <em>Sutoyo D., Srinivasan R. </em><br /><a href="https://doi.org/10.1016/j.brainres.2008.09.086">Brain Research (2009)</a></p>
+
+<p>Toward EEG sensing of imagined speech <br />
+  <em>D’Zmura M., Deng S., Lappas T., Thorpe S., and Srinivasan R. </em><br /><a href="https://link.springer.com/chapter/10.1007/978-3-642-02574-7_5">Human-Computer Interaction, Part I (2009)</a></p>
+
+<p>Decoding attentional orientation from EEG spectra <br />
+  <em>Srinivasan R., Thorpe S., Deng S., Lappas T., and D’Zmura M. </em><br /><a href="https://link.springer.com/chapter/10.1007/978-3-642-02574-7_20">Human-Computer Interaction, Part I (2009)</a></p>
+
+<p>Hearts don’t love and brains don’t pump - neocortical dynamic correlates of conscious experience <br />
+  <em>Nunez P.L., Srinivasan R. </em><br /><a href="https://www.ingentaconnect.com/content/imp/jcs/2007/00000014/00000008/art00002">Journal of Consciousness Studies (2007)</a></p>
+
+<p>Functional connectivity of frontal cortex in healthy and ADHD children reflected in EEG coherence <br />
+  <em>Murias M., Swanson J.M., and Srinivasan R. </em><br /><a href="https://doi.org/10.1093%2Fcercor%2Fbhl089">Cerebral Cortex (2007)</a></p>
+
+<p>Identification of wave-like spatial structure in the SSVEP: Comparison of simultaneous EEG and MEG <br />
+  <em>Thorpe S.G., Nunez P.,L., and Srinivasan R. </em><br /><a href="https://doi.org/10.1002/sim.2969">Statistics in Medicine (2007)</a></p>
+
+<p>EEG and MEG coherence: measures of functional connectivity at distinct spatial scales of neocortical dynamics <br />
+  <em>Srinivasan R., Winter W.R., Ding J., and Nunez P.L. </em><br /><a href="https://doi.org/10.1016/j.jneumeth.2007.06.026">Journal of Neuroscience Methods (2007)</a></p>
+
+<p>Comparison of the effect of volume conduction on EEG coherence with the effect of field spread on MEG coherence <br />
+  <em>Winter W., Nunez P.,L., Ding J.,D., and Srinivasan R. </em><br /><a href="https://doi.org/10.1002/sim.2978">Statistics in Medicine (2007)</a></p>
+
+<p>fMRI responses in medial frontal cortex that depend on the temporal frequency of visual input <br />
+  <em>Srinivasan R., Fornari E., Knyazeva M. G., Meuli R., and Maeder P. </em><br /><a href="https://doi.org/10.1007%2Fs00221-007-0886-3">Experimental Brain Research (2007)</a></p>
+
+<p>Anatomical constraints on source models for high-resolution EEG and MEG derived from MRI <br />
+  <em>Srinivasan R. </em><br /><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/pmc1995010/">Technology in Cancer Research and Treatment (2006)</a></p>
+
+<p>A theoretical basis for standing and traveling brain waves measured with human EEG with implications for an integrated consciousness <br />
+  <em>Nunez P.L., Srinivasan R. </em><br /><a href="https://doi.org/10.1016%2Fj.clinph.2006.06.754">Clinical Neurophysiology (2006)</a></p>
+
+<p>Electric Fields of the Brain: The Neurophysics of EEG, 2nd Ed. Oxford University Press, New York. <br />
+  <em>Nunez P.L., Srinivasan R. </em><br /><a href="http://books.google.com/books?id=V1LuaISgSzgC&amp;dq=electric+fields+of+the+brain&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;ei=nhO-S6nWIozgswPd7PiWBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CBYQ6AEwAw#v=onepage&amp;q&amp;f=false">Preview</a></p>
+
+<p>MEG phase follows conscious perception during binocular rivalry induced by visual stream segregation <br />
+  <em>Srinivasan R., Petrovic S. </em><br /><a href="https://doi.org/10.1093%2Fcercor%2Fbhj016">Cerebral Cortex (2006)</a></p>
+
+<p>Attentional Modulation of SSVEP power depends on network tagged by flicker frequency <br />
+  <em>Ding J., D. Sperling G., and Srinivasan R. </em><br /><a href="https://doi.org/10.1093%2Fcercor%2Fbhj044">Cerebral Cortex (2006)</a></p>
+
+<p>Steady-state visual evoked potentials: distributed local sources and wave-like dynamics are sensitive to flicker frequency <br />
+  <em>Srinivasan R., Alouani Bibi F., and Nunez P.L. </em><br /><a href="https://doi.org/10.1007%2Fs10548-006-0267-4">Brain Topography (2006)</a></p>
+
+<p>Source analysis of EEG oscillations using high-resolution EEG and MEG <br />
+  <em>Srinivasan R., Winter W.R., and Nunez P.L. </em><br /><a href="https://doi.org/10.1016%2FS0079-6123(06)59003-X">Progress in Brain Research (2006)</a></p>
+
+<p>Internal and external neural synchronization during conscious perception <br />
+  <em>Srinivasan R. </em><br /><a href="https://doi.org/10.1142%2FS0218127404009399">International Journal of Bifurcation and Chaos in Applied Sciences and Engineering (2004)</a></p>
+
+<p>High-resolution EEG: Theory and Practice <br />
+  <em>Srinivasan R. </em><br /><a href=""></a></p>
+
+<p>Natural solutions to the problem of functional integration <br />
+  <em>Habeck C.G., Srinivasan R. </em><br /><a href="https://doi.org/10.1017/S0140525X00263255">Behavioral and Brain Sciences (2000)</a></p>
+
+<p>Methods to improve the spatial resolution of EEG <br />
+  <em>Srinivasan R. </em><br /><a href="http://www.ijbem.org/volume1/number1/107-116.pdf">International Journal of Bioelectromagnetism (1999)</a></p>
+
+<p>Spatial structure of the human alpha rhythm: global correlation in adults and local correlation in children <br />
+  <em>Srinivasan, R. </em><br /><a href="https://doi.org/10.1016/s1388-2457(99)00080-2">Clinical Neurophysiology (1999)</a></p>
+
+<p>Increased synchronization of neuromagnetic responses during conscious perception <br />
+  <em>Srinivasan R., Russell D.P., Edelman G.M., and Tononi G. </em><br /><a href="https://doi.org/10.1523/jneurosci.19-13-05435.1999">Journal of Neuroscience (1999)</a></p>
+
+<p>EEG Coherency II: Experimental comparison of multiple measures <br />
+  <em>Nunez P.L., Silberstein R.B., Shi Z., Carpenter M.R., Srinivasan R., Tucker D.M., Doran S.M., Cadusch P.J., and Wijesinghe R.S. </em><br /><a href="https://doi.org/10.1016/s1388-2457(98)00043-1">Clinical Neurophysiology (1999)</a></p>
+
+<p>Bayesian estimates of error bounds for EEG source imaging <br />
+  <em>Russell G.S., Srinivasan R., and Tucker D.M. </em><br /><a href="https://doi.org/10.1109/42.746725">IEEE Transactions on Medical Imaging (1998)</a></p>
+
+<p>Estimating the spatial Nyquist of EEG <br />
+  <em>Srinivasan R., Murias M., and Tucker D.M. </em><br /><a href="https://link.springer.com/article/10.3758/BF03209412">Behavior Research Methods, Instruments, and Computers (1998)</a></p>
+
+<p>Spatial filtering and neocortical dynamics: estimates of EEG coherence <br />
+  <em>Srinivasan R., Nunez P.L., and Silberstein R.B. </em><br /><a href="https://doi.org/10.1109/10.686789">IEEE Transactions on Biomedical Engineering (1998)</a></p>
+
+<p>Investigating neural correlates of conscious perception by frequency tagged neuromagnetic responses <br />
+  <em>Tononi G., Srinivasan R., Russell D.P., and Edelman G.M. </em><br /><a href="https://doi.org/10.1073%2Fpnas.95.6.3198">Proceedings of the National Academy of the Sciences (1998)</a></p>
+
+<p>EEG Coherency I: Statistics, Reference Electrode, Volume Conduction, Laplacians, and Physiological Interpretation <br />
+  <em>Nunez P.L., Srinivasan R., Wu X., Wijesinghe R.S., Tucker D.M., Cao G., and Silberstein R.B. </em><br /><a href="https://doi.org/10.1016/s0013-4694(97)00066-7">Electroencephalography and Clinical Neurophysiology (1997)</a></p>
+
+<p>Path-integral evolution of chaos embedded in noise: Duffing neocortical analog <br />
+  <em>Ingber L., Srinivasan R., and Nunez P.L. </em><br /><a href="https://doi.org/10.1016/0895-7177(95)00232-4">Journal of Mathematical Modelling and Scientific Computing (1996)</a></p>
+
+<p>Spatial sampling and filtering of EEG with spline Laplacians to estimate cortical potentials <br />
+  <em>Srinivasan R., Nunez P.L., Tucker D.M., Silberstein R.B., and Cadusch P.J. </em><br /><a href="https://doi.org/10.1007/bf01186911">BrainTopography (1996)</a></p>
+
+<p>A theoretical and experimental study of high resolution EEG based on surface Laplacians and cortical imaging <br />
+  <em>Nunez P.L., Silberstein R.B., Cadusch P.J., Wijesinghe R.S., Westdorp A.F., and Srinivasan R. </em><br /><a href="https://doi.org/10.1016/0013-4694(94)90112-0">Electroencephalography and Clinical Neurophysiology (1994)</a></p>
+
+<p>Neocortical Dynamics, EEG Standing Waves, and Chaos <br />
+  <em>Srinivasan R., Nunez P.L. </em><br /><a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=1kJBDwAAQBAJ&amp;oi=fnd&amp;pg=PA310&amp;dq=Srinivasan,+R.,+and+Nunez,+P.L.+(1993)+Neocortical+Dynamics,+EEG+Standing+Waves,+and+Chaos&amp;ots=DzS1SOsooa&amp;sig=UKJ0azMt-oemtvl9ej6rs9Z451Y#v=onepage&amp;q=Srinivasan%2C%20R.%2C%20and%20Nunez%2C%20P.L.%20(1993)%20Neocortical%20Dynamics%2C%20EEG%20Standing%20Waves%2C%20and%20Chaos&amp;f=false">Preview</a></p>
+
+<p>Implications of recording strategy for estimates of neocortical dynamics with electroencephalography <br />
+  <em>Nunez P.L., Srinivasan R. </em><br /><a href="https://doi.org/10.1063/1.165989">Chaos (1993)</a></p>
+
+:ET

@@ -192,7 +192,7 @@
   authors: Srinivasan R., Deng S.
   link:
     url: https://www.taylorfrancis.com/chapters/edit/10.1201/b12941-3/multivariate-spectral-analysis-electroencephalogram-power-coherence-second-order-blind-identification-ramesh-srinivasan-siyi-deng
-    display: Biosignal Processing: Principles and Practices (2012)
+    display: "Biosignal Processing: Principles and Practices (2012)"
   highlight: 0
 
 - title: "Distinct attention networks for feature enhancement and suppression in vision"
@@ -277,7 +277,7 @@
   highlight: 0
   news2:
 
-- title:"Dual-core beamformer for obtaining highly correlated neuronal networks in MEG"
+- title: "Dual-core beamformer for obtaining highly correlated neuronal networks in MEG"
   image: placeholder.png
   description: Conventional beamformer techniques are successful in localizing neuronal sources that are uncorrelated under poor signal-to-noise ratio (SNR) conditions. However, they fail to reconstruct multiple highly correlated sources. Though previously published dual-beamformer techniques can successfully localize multiple correlated sources, they are computationally expensive and impractical, requiring a priori information.
   authors: Diwakar M., Huang M.X., Srinivasan R., Harrington D., Robb A., Angeles A., Muzzatti L., Pakdaman R., Song T., Theilmann R.J., and Lee R.R.
@@ -300,7 +300,7 @@
 
 - title: "Semantic and acoustic analysis of speech by functional networks with distinct time scales"
   image: placeholder.png
-  description: To better understand the operation of brain networks at these characteristic time scales during speech perception, we studied the spatial and dynamic properties of EEG responses to five different stimuli: (1) amplitude modulated (AM) speech, (2) AM speech with added broadband noise, (3) AM reversed speech, (4) AM broadband noise, and (5) AM pure tone.
+  description: To better understand the operation of brain networks at these characteristic time scales during speech perception, we studied the spatial and dynamic properties of EEG responses to five different stimuli (1) amplitude modulated (AM) speech, (2) AM speech with added broadband noise, (3) AM reversed speech, (4) AM broadband noise, and (5) AM pure tone.
   authors: Deng S., Srinivasan R. 
   link:
     url: https://doi.org/10.1016/j.brainres.2010.05.027
@@ -318,7 +318,7 @@
 
 - title: "Nonlinear SSVEP responses are sensitive to the perceptual binding of visual hemifields during conventional 'eye' rivalry and interocular 'percept' rivalry"
   image: placeholder.png
-  description: We conducted behavioral and EEG experiments to identify physiological correlates of perceptual binding during two types of binocular rivalry: (1) conventional 'eye' rivalry where perception alternates between the two monocular images presented one to each eye and (2) interocular 'percept' rivalry, where perception alternates between percepts formed by grouping complementary hemifields one from each eye.
+  description: We conducted behavioral and EEG experiments to identify physiological correlates of perceptual binding during two types of binocular rivalry (1) conventional 'eye' rivalry where perception alternates between the two monocular images presented one to each eye and (2) interocular 'percept' rivalry, where perception alternates between percepts formed by grouping complementary hemifields one from each eye.
   authors: Sutoyo D., Srinivasan R.
   link:
     url: https://doi.org/10.1016/j.brainres.2008.09.086
@@ -471,7 +471,7 @@
 
 - title: "High-resolution EEG: Theory and Practice"
   image: placeholder.png
-  description: (T.C. Handy, ed.) Event-related brain potentials: A Methods Handbook (2003)
+  description: "(T.C. Handy, ed.) Event-related brain potentials: A Methods Handbook (2003)"
   authors: Srinivasan R.
   link:
     url: 
@@ -543,7 +543,7 @@
 
 - title: "Spatial filtering and neocortical dynamics: estimates of EEG coherence"
   image: placeholder.png
-  description: "The spatial statistics of scalp electroencephalogram (EEG) are usually presented as coherence in individual frequency bands. These coherences result both from correlations among neocortical sources and volume conduction through the tissues of the head.
+  description: The spatial statistics of scalp electroencephalogram (EEG) are usually presented as coherence in individual frequency bands. These coherences result both from correlations among neocortical sources and volume conduction through the tissues of the head.
   authors: Srinivasan R., Nunez P.L., and Silberstein R.B.
   link:
     url: https://doi.org/10.1109/10.686789
@@ -588,7 +588,7 @@
 
 - title: "A theoretical and experimental study of high resolution EEG based on surface Laplacians and cortical imaging"
   image: placeholder.png
-  description: "Two different methods to improve the spatial resolution of EEG are discussed: the surface Laplacian (e.g., current source density) and cortical imaging (e.g., spatial deconvolution).
+  description: "Two different methods to improve the spatial resolution of EEG are discussed: the surface Laplacian (e.g., current source density) and cortical imaging (e.g., spatial deconvolution)."
   authors: Nunez P.L., Silberstein R.B., Cadusch P.J., Wijesinghe R.S., Westdorp A.F., and Srinivasan R.
   link:
     url: https://doi.org/10.1016/0013-4694(94)90112-0
